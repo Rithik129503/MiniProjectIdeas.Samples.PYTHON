@@ -1,0 +1,4 @@
+print("WELCOME TO CALORIES CALCULATOR!")
+your_calories = int(input("Enter your weight (in kg): "))
+your_calories = your_calories * 24
+print("Your daily calorie requirement is:", your_calories, "calories.")
